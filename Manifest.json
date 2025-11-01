@@ -1,0 +1,7 @@
+{
+  "name": "Emoji Replacer",
+  "description": "Automatically replaces common words with fun emojis in chat.",
+  "author": "ChatGPT",
+  "version": "1.0.0",
+  "main": "EmojiReplacer.plugin.js"
+}
